@@ -12,5 +12,5 @@ About Me
 💬-> Talk to me More about C, C++, HTML, CSS, Java ,Python
 💬-> Tell me more about HTML, CSS, Java ,R 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArghyaDas21112001)](https://github.com/anuraghazra/github-readme-stats)
 
