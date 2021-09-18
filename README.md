@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<a href="https://raw.githubusercontent.com/Rishi-Sharma2002/tree/main/readme.md">
+	<a href=https://github.com/ArghyaDas21112001/ArghyaDas21112001/edit/main/header.svg>
 		<img src="header.svg" >
 	</a>
 	<br>
