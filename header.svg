@@ -60,7 +60,7 @@
 
 						}
 						canvas{
-							background-color: rgb(70, 69, 69);
+							background-color: rgb(255, 255, 255);
 							position: absolute;
 							margin-top: 145px;
 							margin-left: 400px;
