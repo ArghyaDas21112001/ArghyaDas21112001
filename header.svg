@@ -22,7 +22,7 @@
 						overflow: hidden; /* Ensures the content is not revealed until the animation */
 						border-right: .15em solid orange; /* The typwriter cursor */
 						white-space: nowrap; /* Keeps the content on a single line */
-						<!-- margin: 0 auto; /* Gives that scrolling effect as the typing happens */ -->
+						margin: 0 auto; /* Gives that scrolling effect as the typing happens */ 
 						margin-top:30px;
 						margin-left:50px;
 						letter-spacing: .15em; /* Adjust as needed */
@@ -93,7 +93,7 @@
 			</style>
 			<div class="container">
 				<div class="typewriter">
-					<h1 class="typewriter">Hello, This is <span style="color: red"> Arghya Das </span> </h1>
+					<h1 class="typewriter">Welcome to my Github Pages</span> </h1>
 				</div>
 			</div>
 		</div>
