@@ -15,6 +15,7 @@
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
+				@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@700&display=swap');
 				.typewriter h1{
 
 						color: #00000;
