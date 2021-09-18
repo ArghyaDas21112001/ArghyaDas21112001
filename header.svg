@@ -4,14 +4,14 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				h1 {
-					font-size: 40px;
+					font-size: 100px;
 					line-height: 1.3;
 					letter-spacing: 5px;
 					text-transform: uppercase;
 				}
 
 				h1 {
-					font-size: 40px;
+					font-size: 100px;
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
