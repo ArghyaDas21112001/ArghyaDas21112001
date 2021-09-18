@@ -37,21 +37,16 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArghyaDas21112001)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [GitHub stats](https://github-readme-stats.vercel.app/api?username=ArghyaDas21112001&show_icons=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArghyaDas21112001)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ArghyaDas21112001)  
 
-![Profile views](https://gpvc.arturio.dev/ArghyaDas21112001)  
 
 <h1>CONNECT WITH ME<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h1> 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArghyaDas21112001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/arghya_das)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arghya-das-74b054206//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/the_royal_dada86/)  
 
-<h1> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h1>
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vaibhavagarwal47/count.svg" />
+</p>
