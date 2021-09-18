@@ -27,7 +27,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 
-# MY STATISTICS.........
+# MY STATISTICS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArghyaDas21112001)](https://github.com/anuraghazra/github-readme-stats)!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArghyaDas21112001)](https://github.com/anuraghazra/github-readme-stats)
