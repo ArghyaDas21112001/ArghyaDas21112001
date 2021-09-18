@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<a href=https://github.com/ArghyaDas21112001/ArghyaDas21112001/edit/main/header.svg>
+	<a href="https://github.com/ArghyaDas21112001/ArghyaDas21112001/blob/main/header.svg">
 		<img src="header.svg" >
 	</a>
 	<br>
