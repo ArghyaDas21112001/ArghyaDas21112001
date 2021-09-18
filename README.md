@@ -31,6 +31,8 @@
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 <img width ='32px' src ='https://opencode.us/wp-content/uploads/2013/10/css3_logo.png'> </a>
+<img width ='32px' src ='http://4.bp.blogspot.com/--Z47AygFgro/Tgt5chuuhyI/AAAAAAAAY-c/RF6Wzj4tYnA/s1600/Mysql_Logo2.png'> </a>
+
 
 # MY STATISTICS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArghyaDas21112001)](https://github.com/anuraghazra/github-readme-stats)!
