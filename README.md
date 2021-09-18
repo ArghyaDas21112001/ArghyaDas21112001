@@ -25,7 +25,7 @@
 
 
 
-💬-> Tell me more about :
+💬-> Tell me more about : Mysql
 
 <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
