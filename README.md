@@ -4,11 +4,11 @@
    <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-My-GitHub--Page-"/>
 	</p>
 
-	<a href="https://github.com/ArghyaDas21112001/ArghyaDas21112001/blob/main/header.svg">
+	<!--<a href="https://github.com/ArghyaDas21112001/ArghyaDas21112001/blob/main/header.svg">
 		<img src="header.svg" >
 	</a>
 	<br>
-
+-->
 </div>
 <h1>About Me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 
