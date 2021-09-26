@@ -5,11 +5,7 @@
 	</p>
 
 	<!--
-<a href="https://github.com/ArghyaDas21112001/ArghyaDas21112001/blob/main/header.svg">
-		<img src="header.svg" >
-	</a>
-	<br>
--->
+
 </div>
 <h1>About Me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 
@@ -61,3 +57,9 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/vaibhavagarwal47/count.svg" />
 </p>
+<!--
+<a href="https://github.com/ArghyaDas21112001/ArghyaDas21112001/blob/main/header.svg">
+		<img src="header.svg" >
+	</a>
+	<br>
+-->
