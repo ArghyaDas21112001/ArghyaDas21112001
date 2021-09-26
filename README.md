@@ -4,7 +4,6 @@
    <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-My-GitHub--Page-"/>
 	</p>
 
-	<!--
 
 </div>
 <h1>About Me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
