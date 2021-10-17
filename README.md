@@ -8,7 +8,7 @@
 </div>
 <h1>About Me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 
-🤜 I'm a senior student at SRM University , Delhi-NCR, majoring in Computer Science and engineering.I am fueled by my passion for Coding complex problems that sometimes requires to think out of the box. I have an immnese hunger for knowledge and determination to turn daliy problems into Codes and Programs which will contribute to the betterment of the Society along with the concerned Professionals.🤛
+🤜 I'm a senior student at SRM University , Delhi-NCR, majoring in Computer Science and engineering.I am fueled by my passion for Coding complex problems that sometimes requires to think out of the box. I have an immenese hunger for knowledge and determination to turn daliy problems into Codes and Programs which will contribute to the betterment of the Society along with the concerned Professionals.🤛
 
 🔭-> Currently learning Data Analysis and Data Structures & Algorithms.
 
