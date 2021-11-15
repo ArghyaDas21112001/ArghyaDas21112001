@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-My-GitHub-Page-"/>
+   <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome to My GitHub Page"/>
 	</p>
 
 
