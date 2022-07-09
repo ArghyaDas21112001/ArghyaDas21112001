@@ -14,7 +14,7 @@
 
 🎓-> Currently pursuing B.Tech from S.R.M. Institute of Science & Technology.
 
-<h1>Skills and Experiences <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+<h1>Skills and Experiences <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 16px>
 </h2>
 
 👯-> Looking to collaborate on Projects of Python,C,or C++  & Data Structures and Algorithms.
