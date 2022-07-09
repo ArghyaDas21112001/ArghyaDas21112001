@@ -6,7 +6,7 @@
 
 
 </div>
-<h1>About Me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
+<h1>About Me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px></h1>
 
 🤜 I'm a senior student at SRM University , Delhi-NCR, majoring in Computer Science and engineering.I am fueled by my passion for Coding complex problems that sometimes requires to think out of the box. I have an immenese hunger for knowledge and determination to turn daliy problems into Codes and Programs which will contribute to the betterment of the Society along with the concerned Professionals.🤛
 
@@ -14,7 +14,7 @@
 
 🎓-> Currently pursuing B.Tech from S.R.M. Institute of Science & Technology.
 
-<h1>Skills and Experiences <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 16px>
+<h1>Skills and Experiences <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 10px>
 </h2>
 
 👯-> Looking to collaborate on Projects of Python,C,or C++  & Data Structures and Algorithms.
