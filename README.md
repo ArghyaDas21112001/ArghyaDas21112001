@@ -55,7 +55,7 @@
  <a href = 'https://github.com/ArghyaDas2111200'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>&nbsp;&nbsp;&nbsp;</a> 
 <a href = 'https://www.linkedin.com/in/arghya-das-74b054206//'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>&nbsp;&nbsp;&nbsp;</a> 
  <a href = 'https://www.instagram.com/the_royal_dada86/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>&nbsp;&nbsp;&nbsp;</a> 
- <a href = "https://arghyadas21112001.github.io/Website/"/> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>&nbsp;&nbsp;&nbsp;</a> 
+ <a href = "https://arghyadas21112001.github.io/Website/"/> <img width = '32px' align= 'center' src="https://www.flaticon.com/free-icon/hello_3898671"/>&nbsp;&nbsp;&nbsp;</a> 
  <br>
  
  
