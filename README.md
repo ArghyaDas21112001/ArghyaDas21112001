@@ -6,6 +6,7 @@
 
 
 </div>
+
 <h1>About Me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px></h1>
 
 🤜 I'm a senior student at SRM University , Delhi-NCR, majoring in Computer Science and engineering.I am fueled by my passion for Coding complex problems that sometimes requires to think out of the box. I have an immenese hunger for knowledge and determination to turn daliy problems into Codes and Programs which will contribute to the betterment of the Society along with the concerned Professionals.🤛
@@ -54,6 +55,7 @@
  <a href = 'https://github.com/ArghyaDas2111200'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>&nbsp;&nbsp;&nbsp;</a> 
 <a href = 'https://www.linkedin.com/in/arghya-das-74b054206//'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>&nbsp;&nbsp;&nbsp;</a> 
  <a href = 'https://www.instagram.com/the_royal_dada86/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>&nbsp;&nbsp;&nbsp;</a> 
+ <a href = "https://arghyadas21112001.github.io/Website/"/> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>&nbsp;&nbsp;&nbsp;</a> 
  <br>
  
  
